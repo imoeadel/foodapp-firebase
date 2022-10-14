@@ -20,7 +20,7 @@ export const heroData = [
   },
   {
     id: 3,
-    name: "Chicken Sweet & Sour",
+    name: "Spicy Chicken",
     desc: "Mixed Kebab Plate",
     price: "8.25",
     imageSrc: C1,
